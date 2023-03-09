@@ -1,3 +1,7 @@
 body {
   margin: 0;
 }
+
+.repo-card {
+  width: 18rem;
+}
